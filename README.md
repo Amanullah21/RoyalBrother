@@ -2,13 +2,9 @@
 This repository is for developing the Royal Brother clone.
 
 
-
-
-
 # What is Royal Brother?
 
 Royal Brothers is a bike and car rental company in India. A company that started in 2015 is known for quality and services
-
 
 
 ## Tech Stacks Used:
@@ -39,14 +35,16 @@ It is very intersting page, there are many offer for you
 <br>
 
 ### **Earn with us**
+
 it Is Earn page , there are so Source of income for you .
 
 <img src="src/Photo/Readme_Earn.PNG">
 <br>
 
-### ** Login & Sign up**
+### **Login**
 
 It os our Login Page .
+
 <img src="src/Photo/Readme_Login.PNG">
 <br>
 
