@@ -20,16 +20,15 @@ Royal Brothers is a bike and car rental company in India. A company that started
 
 
 ### **Home page**
-
+It is Our Landing Page.
 
 <img src="src/Photo/Readme_Home.PNG">
 <br>
 
 ### **Tariff page:**
+It is the Tariff Page, There is show so Low to high & high to Low cost of Travel.
 
-//someting write here
-
-<img src="<img src="src/Photo/Readme_Tariff.PNG">">
+<img src="src/Photo/Readme_Tariff.PNG">
 <br>
 
 ### **Offer:**
@@ -40,23 +39,17 @@ It is very intersting page, there are many offer for you
 <br>
 
 ### **Earn with us**
-
-//something write here
+it Is Earn page , there are so Source of income for you .
 
 <img src="src/Photo/Readme_Earn.PNG">
 <br>
 
 ### ** Login & Sign up**
 
-If you have anu query related any think , you conect by these page .
+It os our Login Page .
 <img src="src/Photo/Readme_Login.PNG">
-<img src="src/Photo/Readme_Sign.PNG">
 <br>
-## Features
 
-* responsive for all device
-
-<br>
 
 
 ## Contributers
