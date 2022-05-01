@@ -63,7 +63,7 @@ It os our Login Page .
 - Github: [Mitesh Sharma](https://github.com/ms00110011)
 - Linkdin:[Mitesh Sharma](https://www.linkedin.com/in/miteshsharma1/)
 
-👤 **Manoj**
+👤 **Manoj Kumar Nishad**
 
 - Github: [Manoj](https://github.com/amnishad0512)
 - Linkedin: [Manoj](https://www.linkedin.com/in/amnishad0512/)
