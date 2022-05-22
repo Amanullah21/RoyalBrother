@@ -18,21 +18,21 @@ export const SearchR = () => {
 
 
   const getData = () => {
-    fetch("http://localhost:3001/tariff")
+    fetch("https://adidas-db.herokuapp.com/tariff")
       .then((res) => res.json())
       .then((res) => setData(res))
       .catch((err) => console.log(err));
   };
 
   const getLow = () => {
-    fetch("http://localhost:3001/tariff?_sort=price&_order=asc")
+    fetch("https://adidas-db.herokuapp.com/tariff?_sort=price&_order=asc")
       .then((res) => res.json())
       .then((res) => setData(res))
       .catch((err) => console.log(err));
   };
 
   const getHigh = () => {
-    fetch("http://localhost:3001/tariff?_sort=price&_order=desc")
+    fetch("https://adidas-db.herokuapp.com/tariff?_sort=price&_order=desc")
       .then((res) => res.json())
       .then((res) => setData(res))
       .catch((err) => console.log(err));
